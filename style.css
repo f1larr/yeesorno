@@ -1,0 +1,24 @@
+body{
+    background-color: pink;
+}
+
+.container {
+    text-align: center;
+    margin-top: 10%;
+  }
+  
+  .question img {
+    max-width: 200px;
+  }
+  
+  .buttons {
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 0 10px;
+  }
+  
+  
